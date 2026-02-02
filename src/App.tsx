@@ -2,7 +2,7 @@ import { Routes, Route } from "react-router-dom"
 import './App.css'
 import Header from './components/Header.tsx'
 import Home from './components/FrontPage.tsx'
-import Saved from './components/Saved.tsx'
+import Saved from './components/SavedPage.tsx'
 import { useJokes } from './hooks/useJokes.ts'
 
 function App() {
