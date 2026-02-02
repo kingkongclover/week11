@@ -84,7 +84,7 @@ export const HomePage = ({ saveJoke }: FrontPageProps) => {
                     setReload((prev) => prev + 1)
                 }}
                 >
-                Get joke</Button>
+                Get Joke</Button>
 
                 <Button variant='contained'
                 onClick={() => {
